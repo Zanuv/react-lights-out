@@ -1,0 +1,12 @@
+.Cell {
+	height: 100px;
+	width: 100px;
+	background-color: darkgray;
+	cursor: pointer;
+	border-radius: 8px; /* Adjust the border-radius value to control the roundness */
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Set the box shadow */
+}
+
+.Cell-lit {
+	background-color: white;
+}
